@@ -1,4 +1,4 @@
 # Django stuff:
 db.sqlite3
 # env folder
-.env/
+env/
